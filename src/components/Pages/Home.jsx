@@ -23,7 +23,7 @@ const Home = () => {
             <div className="row d-flex justify-content-center align-items-center mt-5">
                 <div className="col-md-8">
                     <div className="card card-body">
-                        <h4>From List</h4>
+                        <h4>Form List</h4>
                         <table className="table table-hover text-center">
                             <thead>
                                 <tr>

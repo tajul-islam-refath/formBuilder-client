@@ -4,7 +4,7 @@ const Navbar = () => {
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
             <div className="container">
-                <a className="navbar-brand" href="#">From Builder</a>
+                <a className="navbar-brand" href="#">Form Builder</a>
 
                 <div className="float-left" id="navbarContent">
                     <ul className="navbar-nav mr-auto">
